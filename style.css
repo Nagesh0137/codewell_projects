@@ -1,0 +1,52 @@
+.headname{
+	font-family:prata;
+	font-size: 25px;
+	color: white;
+}
+.fstyle{
+	font-family:inter;
+	color: white;
+	font-weight:300;
+	font-size: 50px;
+}
+.headname:hover{
+	color: white;
+}
+.btn1{
+	color:black;
+
+}
+.menubtn{
+	color: white;
+	font-weight: bolder;
+	fo
+
+}
+.iconss img{
+	margin-left:10px;
+	width: 40px;
+}
+.fontsty{
+		font-family: 'Prata', serif;
+}
+.fontsty2{
+	font-family: 'Inter', serif;
+	text-align: justify;
+}
+@font-face{
+	font-family:prata;src: url('https://fonts.google.com/specimen/Prata');
+}
+@font-face{
+	font-family:inter;src: url('https://fonts.google.com/specimen/Inter');
+}
+.samsunglogo{
+	width:130px;
+}
+.color{
+	background-color:#343538;
+}
+body{
+	background-color:black;
+}
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Prata&display=swap');
